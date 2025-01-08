@@ -44,3 +44,5 @@ Result: The array is a Palindrome! 🎉
 <p>For more information on how palindromes work, check out <a href="https://en.wikipedia.org/wiki/Palindrome" target="_blank" style="color: #2980B9;">this Wikipedia page</a>.</p>
 
 <hr style="border: none; border-top: 2px solid #2980B9; width: 80%; margin: 20px auto;">
+
+<a href="https://github.com/AmanKumar9958/PalindromeChecker/releases/tag/v0.1" target="_blank">Download Latest version</a>
