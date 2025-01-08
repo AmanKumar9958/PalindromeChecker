@@ -45,4 +45,7 @@ Result: The array is a Palindrome! 🎉
 
 <hr style="border: none; border-top: 2px solid #2980B9; width: 80%; margin: 20px auto;">
 
+<h3 style="color: #2980B9;">🚀 Learn More</h3>
 <a href="https://github.com/AmanKumar9958/PalindromeChecker/releases/tag/v0.1" target="_blank">Download Latest version</a>
+
+<hr style="border: none; border-top: 2px solid #2980B9; width: 80%; margin: 20px auto;">
